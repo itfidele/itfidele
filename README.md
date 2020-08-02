@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](https://www.animatedimages.org/data/media/56/animated-computer-image-0178.gif)
 ### Contacts:
 ### itfidele@gmail.com
 <!--
