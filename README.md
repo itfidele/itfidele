@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Fidele Kirezi Cyisa Full Stack Web Developer || Mobile Apps Developer and always willing to learn and work across new technologies and domains. <br/> <br/>
 
-- ⚡️ Technologies I work with: PYTHON, RUBY, C, C++, JAVASCRIPT, DJANGO, FLASK,NODEJS,REACTJS, FLUTTER, TENSORFLOW, SELENIUM, PANDAS, ETC..
+- ⚡️ Technologies I work with: PYTHON, RUBY, C, C++, JAVASCRIPT, DJANGO, FLASK,NODEJS,REACTJS, FLUTTER, DIALOGFLOW, SELENIUM, PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/fidele000?tab=repositories)
 - 👯 Looking for an internship or opportunity.
 
