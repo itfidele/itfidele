@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm Fidele Kirezi Cyisa Full Stack Web Developer || Mobile Apps Developer and always willing to learn and work across new technologies and domains. <br/> <br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=fidele000&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidele000&layout=compact)
