@@ -4,17 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidele000&layout=compact)
 
 
-### 💖 ### Support my projects <br>
-
-However, if you are using my project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
-
-Giving proper credit when you use any of my Repo, linking back to it :D
-Starring and sharing the project 🚀
-
-Thanks! ❤️
-
-
-
 <!--
 **fidele000/fidele000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
