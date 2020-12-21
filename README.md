@@ -1,11 +1,9 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
-
 ### Hi there 👋
 I'm Fidele Kirezi Cyisa Full Stack Web Developer || Mobile Apps Developer and always willing to learn and work across new technologies and domains. <br/> <br/>
 
-- ⚡️ Technologies I work with: PYTHON, RUBY, C, C++, JAVASCRIPT, DJANGO, FLASK,NODEJS,REACTJS, FLUTTER, DIALOGFLOW, SELENIUM, PANDAS, ETC..
-- 👨‍💻 All of my projects are available 👉  [here](https://github.com/fidele000?tab=repositories)
-- 👯 Looking for an internship or opportunity.
+![](https://github-readme-stats.vercel.app/api?username=fidele000&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidele000&layout=compact)
 
 
 ### 💖 ### Support my projects <br>
