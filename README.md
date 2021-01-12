@@ -1,7 +1,8 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=fidele000&show_icons=true&count_private=true)
+[![](https://github-readme-stats.vercel.app/api?username=fidele000&count_private=true)]
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidele000&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fidele000&show_icons=true&theme=radical)
+
 
 
 <!--
