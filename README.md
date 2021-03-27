@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=fidele000&count_private=true&show_icons=true)
+[![Fidele's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidele000)](https://github.com/fidele000/github-readme-stats)
+
 
 
 <!--
