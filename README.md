@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-![](https://img.shields.io/twitter/follow/fidele000?label=Fidele%20K.Cyisa&style=social) ![](https://img.shields.io/badge/Email-itfidele%40gmail.com-red)
+![](https://img.shields.io/twitter/follow/fidele000?label=Fidele%20K.Cyisa&style=social)  ![](https://img.shields.io/badge/Email-itfidele%40gmail.com-red)
 
 
 
