@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Desktop Apllication
+- 🔭 I’m currently working on <b>fixing more bugs</b>
 - 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.rust-lang.org/'>Rust</a>
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/fidele000/'>Linkedin</a> | <a href='https://twitter.com/fidele000'>Twitter</a> | <a href='mailto:itfidele@gmail.com'>Email</a> | <a href='https://instagram.com/fideledev'>Instagram</a> 
