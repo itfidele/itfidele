@@ -1,5 +1,5 @@
 
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **fidele000/fidele000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.rust-lang.org/'>Rust</a>
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/fidele000/'>Linkedin</a> | <a href='https://twitter.com/fidele000'>Twitter</a> | <a href='mailto:itfidele@gmail.com'>Email</a> | <a href='https://instagram.com/fideledev'>Instagram</a> 
-
+- 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>, <a href='https://www.djangoproject.com/' target='_blank'>Django</a> and <a href='https://nodejs.org/' target='_blank'>NodeJS</a>
+- 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>itfidele@gmail.com</a>
 <!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
