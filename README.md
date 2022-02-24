@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
 - 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>Email</a>
 - 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>, <a href='https://www.djangoproject.com/' target='_blank'>Django</a> and <a href='https://nodejs.org/' target='_blank'>NodeJS</a>
-- 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>itfidele@gmail.com</a>
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
