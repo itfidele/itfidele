@@ -1,11 +1,13 @@
 
-# Hi there 👋 
+# Welcome 👋
+If you like my profile let's connect from <a href='https://www.linkedin.com/in/fidele000/'>Linkedin</a>
+
 
 <!--
 **fidele000/fidele000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on <b>Fixing more bugs</b>
 - 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.rust-lang.org/'>Rust</a>
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
