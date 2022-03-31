@@ -1,6 +1,5 @@
 
 # Hi there 👋 
-### ɪ'ᴍ ғɪᴅᴇʟᴇ, ᴄᴜʀʀᴇɴᴛʟʏ ʟᴏᴏᴋɪɴɢ ғᴏʀ ᴀ ғᴜʟʟ-ᴛɪᴍᴇ ʀᴇᴍᴏᴛᴇ ᴊᴏʙ
 
 <!--
 **fidele000/fidele000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
