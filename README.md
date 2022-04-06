@@ -1,6 +1,6 @@
 
 # Welcome 👋
-If you like my profile let's connect from <a href='https://www.linkedin.com/in/fidele000/'>Linkedin</a>
+<a href='https://www.linkedin.com/in/fidele000/'>Linkedin</a>
 
 
 <!--
