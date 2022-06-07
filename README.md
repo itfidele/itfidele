@@ -1,19 +1,9 @@
-
-<!--
-**fidele000/fidele000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <b>Fixing more bugs</b>
-- 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.rust-lang.org/'>Rust</a>
+- 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.typescriptlang.org/'>Typescript</a>
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
 - 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>Email</a>
-- 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>, <a href='https://www.djangoproject.com/' target='_blank'>Django</a> and <a href='https://nodejs.org/' target='_blank'>NodeJS</a>
-<!--
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
