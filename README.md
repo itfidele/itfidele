@@ -1,3 +1,4 @@
+# Hi, I'm Fidele
 - 🔭 I’m currently working on <b>Fixing more bugs</b>
 - 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.typescriptlang.org/'>Typescript</a>
 - 👯 I’m looking to collaborate on <a href='https://github.com/firedm'>FireIDM</a>
