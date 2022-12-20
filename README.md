@@ -1,4 +1,4 @@
-# Hi, I'm Fidele
+# Hi, I'm Fidele -  Software/Web & Chatbot Developer
 - 🔭 I’m currently working on <b>Solving problems</b>
 - 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.typescriptlang.org/'>Typescript</a>
 - 👯 I’m looking to collaborate and remaking <a href='https://github.com/fideledev/FireDM'>FireIDM</a>
