@@ -6,3 +6,5 @@
 - 👯 I’m looking to recreate <a href='https://github.com/fideledev/FireDM'>FireIDM</a>
 - 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>Email</a>
 - 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>
+
+ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=itfidele&style=for-the-badge)
