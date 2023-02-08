@@ -1,10 +1,9 @@
 # Hi there 👋 Full-Stack & Chatbot Developer
 <p>Beating computers into submission, for fun and profit 🔥</p>
 
-- 🔭 I’m currently working on <b>Solving problems</b>
-- 🌱 I’m currently learning <a href='https://www.cplusplus.com/'>C++</a> & <a href='https://www.typescriptlang.org/'>Typescript</a>
-- 👯 I’m looking to recreate <a href='https://github.com/fideledev/FireDM'>FireIDM</a>
-- 📫 How to reach me: <a href='mailto:itfidele@gmail.com'>Email</a>
-- 💬 Ask me about <a href='https://www.python.org/' target='_blank'>Python</a>
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Fidele's github stats](https://github-readme-stats.vercel.app/api?username=itfidele&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/itfidele)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itfidele&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/itfidele)|![itfidele](https://github-readme-streak-stats.herokuapp.com/?user=itfidele&theme=dark)
 
- &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=itfidele&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=itfidele&style=for-the-badge)
