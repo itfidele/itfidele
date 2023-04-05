@@ -1,4 +1,4 @@
-### Hi there 👋 Full-Stack & Chatbot Developer
+### Hi there 👋
 <p>Beating computers into submission, for fun and profit 🔥</p>
 
 |My github statistics|My languages|Streaks|
