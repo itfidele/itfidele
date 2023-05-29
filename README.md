@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       4 mins          ███████████████▒░░░░░░░░░   60.77 %
+Rust         1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+C++          1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
 ```
 
 <!--END_SECTION:waka-->
