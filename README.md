@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         30 hrs 30 mins  ██████████████░░░░░░░░░░░   55.53 %
-JavaScript         17 hrs 3 mins   ███████▓░░░░░░░░░░░░░░░░░   31.06 %
-Other              2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON               1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-reStructuredText   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+TypeScript         27 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.17 %
+JavaScript         13 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   28.28 %
+Other              2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+reStructuredText   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JSON               50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
