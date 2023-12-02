@@ -5,7 +5,7 @@
 |-|-|-|
 |[![Fidele's github stats](https://github-readme-stats.vercel.app/api?username=itfidele&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/itfidele)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itfidele&show_icons=true&langs_count=8&theme=dark&layout=compact&hide_title=true)](https://github.com/itfidele)|![itfidele](https://github-readme-streak-stats.herokuapp.com/?user=itfidele&theme=dark)
 
-### 30 days coding time in brief
+### This week coding time in brief
 <!--START_SECTION:waka-->
 
 ```txt
