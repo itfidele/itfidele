@@ -9,17 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 57 mins
+Total Time: 13 hrs 13 mins
 
-TypeScript   7 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.52 %
-JavaScript   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Rust         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-PHP          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-CMake        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Dart         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-SCSS         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TypeScript      7 hrs 21 mins   ██████████▓░░░░░░░░░░░░░░   43.17 %
+Other           3 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
 ```
 
 <!--END_SECTION:waka-->
