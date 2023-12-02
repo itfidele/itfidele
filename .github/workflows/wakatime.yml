@@ -1,6 +1,8 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: [master]
   workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
@@ -14,8 +16,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10
-          COMMIT_MESSAGE: updating coding time for the past 7 days
+          LANG_COUNT: 6
+          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
