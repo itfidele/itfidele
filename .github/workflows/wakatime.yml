@@ -21,7 +21,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
