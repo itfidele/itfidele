@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 59 mins
+Total Time: 24 hrs 2 mins
 
-Other            21 hrs          █████████████▒░░░░░░░░░░░   53.86 %
-Rust             7 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-TypeScript       7 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-JSON             48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JavaScript       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-TOML             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other            17 hrs 23 mins  ██████████▒░░░░░░░░░░░░░░   41.99 %
+TypeScript       13 hrs 50 mins  ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Rust             7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+JSON             48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JavaScript       48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TOML             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
