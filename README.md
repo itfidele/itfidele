@@ -9,9 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+JSON   10 mins         █████████████████████▓░░░   86.64 %
+SQL    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
 ```
 
 <!--END_SECTION:waka-->
