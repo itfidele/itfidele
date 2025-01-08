@@ -9,10 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 mins
+Total Time: 4 hrs 16 mins
 
-JSON   10 mins         █████████████████████▓░░░   86.64 %
-SQL    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+TypeScript   3 hrs 59 mins   ███████████████████████▒░   93.41 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
