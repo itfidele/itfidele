@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 59 mins
+Total Time: 5 hrs 48 mins
 
-TypeScript   5 hrs 35 mins   ███████████████████████▒░   93.31 %
-Bash         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+TypeScript   5 hrs 34 mins   ████████████████████████░   96.06 %
+Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
