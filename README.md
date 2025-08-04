@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 36 mins
+Total Time: 7 hrs 12 mins
 
-TypeScript     5 hrs 23 mins   ████████████████████▒░░░░   81.70 %
-Git Config     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Python         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-git ignore     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-SQL            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript     5 hrs 5 mins    █████████████████▓░░░░░░░   70.61 %
+Python         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Git Config     28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Markdown       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Dart           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+git ignore     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
