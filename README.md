@@ -9,13 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 54 mins
+Total Time: 0 secs
 
-Python       25 mins         ████████████░░░░░░░░░░░░░   47.49 %
-Dart         13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-Markdown     12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
