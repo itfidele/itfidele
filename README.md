@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 4 mins
+Total Time: 1 hr 40 mins
 
-Dart         57 mins         █████████████████████▓░░░   86.76 %
-TypeScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Dart         1 hr 36 mins    ███████████████████████▓░   94.40 %
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
