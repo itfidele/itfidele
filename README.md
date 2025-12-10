@@ -9,10 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 mins
+Total Time: 0 secs
 
-TypeScript   22 mins         ████████████████████░░░░░   79.68 %
-Dart         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
