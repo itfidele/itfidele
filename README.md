@@ -1,7 +1,23 @@
-### Hi there, I’m Fidele 👋
+### Hi, I’m Fidele 👋
 
-Building useful software and beating computers into submission—for fun and profit 🔥
+I build practical software that helps people prepare, learn, and work.
 
-| GitHub statistics | Most-used languages | Contribution streak |
-| :---: | :---: | :---: |
-| [![Fidele’s GitHub stats](https://github-readme-stats.vercel.app/api?username=itfidele&show_icons=true&theme=dark&hide_title=true&cache_seconds=21600)](https://github.com/itfidele) | [![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itfidele&langs_count=8&theme=dark&layout=compact&hide_title=true&cache_seconds=21600)](https://github.com/itfidele?tab=repositories) | [![GitHub streak](https://streak-stats.demolab.com/?user=itfidele&theme=dark&hide_border=true)](https://github.com/itfidele) |
+### Featured project: NextCue 🎙️
+
+A desktop AI companion for interview practice, meeting notes,
+and learning from videos.
+
+- Local speech transcription with Whisper
+- Local AI through Ollama, with optional connected providers
+- Floating assistant, saved sessions, and subtitle exports
+
+**Built with:** Rust · Tauri · React · TypeScript
+
+[Explore NextCue](https://github.com/itfidele/NextCue) ·
+[See screenshots](https://github.com/itfidele/NextCue#see-it-in-action) ·
+[View releases](https://github.com/itfidele/NextCue/releases)
+
+### What I’m working on
+
+Making NextCue easier to install and improving its reliability
+across macOS, Windows, and Linux.
