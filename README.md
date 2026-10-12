@@ -1,10 +1,7 @@
-### Hi there 👋
-<p>Beating computers into submission, for fun and profit 🔥</p>
+### Hi there, I’m Fidele 👋
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Fidele's github stats](https://github-readme-stats.vercel.app/api?username=itfidele&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/itfidele)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itfidele&show_icons=true&langs_count=8&theme=dark&layout=compact&hide_title=true)](https://github.com/itfidele)|![itfidele](https://github-readme-streak-stats.herokuapp.com/?user=itfidele&theme=dark)
+Building useful software and beating computers into submission—for fun and profit 🔥
 
-
-
-![](https://komarev.com/ghpvc/?username=itfidele)
+| GitHub statistics | Most-used languages | Contribution streak |
+| :---: | :---: | :---: |
+| [![Fidele’s GitHub stats](https://github-readme-stats.vercel.app/api?username=itfidele&show_icons=true&theme=dark&hide_title=true&cache_seconds=21600)](https://github.com/itfidele) | [![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itfidele&langs_count=8&theme=dark&layout=compact&hide_title=true&cache_seconds=21600)](https://github.com/itfidele?tab=repositories) | [![GitHub streak](https://streak-stats.demolab.com/?user=itfidele&theme=dark&hide_border=true)](https://github.com/itfidele) |
